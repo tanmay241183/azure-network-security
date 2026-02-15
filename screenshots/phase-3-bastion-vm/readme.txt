@@ -1,0 +1,1 @@
+Phase 3 implements secure administrative access by deploying a virtual machine without a public IP and enabling Azure Bastion in the hub network. All management access is performed through the Azure Portal, eliminating exposure of SSH/RDP ports to the internet.

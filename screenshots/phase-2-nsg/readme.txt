@@ -1,0 +1,1 @@
+Phase 2 focuses on enforcing least-privilege traffic control using Network Security Groups. Separate NSGs were applied to each subnet to restrict north-south and east-west traffic. Only required ports were allowed, and all other traffic was denied by default.

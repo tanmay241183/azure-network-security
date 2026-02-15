@@ -1,0 +1,1 @@
+Phase 1 establishes the network foundation using a hub-spoke architecture. A dedicated hub VNet was created to host shared security services, while a spoke VNet was designed with tiered subnets for application workloads. VNet peering was configured to enable secure communication between hub and spoke networks.
